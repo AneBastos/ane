@@ -26,7 +26,7 @@ SECRET_KEY = 'g7t3t^8z!(q2e^+^f$*63#2kj#n)*lgj4f8yt$n8fs5qc#wzrz'
 DEBUG = True
 TEMPLATE_DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["anebastos.pythonanywhere.com"]
 
 
 # Application definition
